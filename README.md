@@ -1,1 +1,2 @@
-# keylogger_linux
+gcc -o keylogger keylogger.c
+sudo ./keylogger
